@@ -18,7 +18,7 @@ In the table below, the TypeID is how Megalo figures out which operator to use. 
 decompiled Megalo XML files:
 
 ### Comparison Operators
-|TypeID|Operator|
+| TypeID | Operator |
 | ---- |:---------------------:|
 |   0  | < (Less Than) |
 |   1  | > (Greater Than) |
