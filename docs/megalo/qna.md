@@ -3,7 +3,7 @@ ul {list-style-type: none;padding: 0;overflow: hidden;background-color: #333;}
 li {  display:block; float: left;}
 li a {display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;}
 li a:hover:not(.active) {background-color: #111;}
-.active {background-color: #ffcc00;} </style>
+li.nav a.active {background-color: #ffcc00; color:#000} </style>
 <ul>
       <li><a href="https://palelebouf.github.io/OmahaScript/">Home</a></li>
       <li><a href="https://palelebouf.github.io/OmahaScript/megalo/doc/home">Megalo Documentation</a></li>
