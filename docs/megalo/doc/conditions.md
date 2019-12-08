@@ -19,7 +19,7 @@ decompiled Megalo XML files:
 
 ### Comparison Operators
 | TypeID | Operator |
-| ---- |:---------------------:|
+| ---- |:---------------------: |
 |   0  | < (Less Than) |
 |   1  | > (Greater Than) |
 |   2  | == (Equal) |
