@@ -53,7 +53,7 @@ None. It's something we wanted to do originally but didn't pan out.
 
 Nope.
 
-Object I/O
+## Object I/O
 
 > How much inter-object interaction is possible? Is it all collision based? For example, the existing KotH gametype obviously uses “IF player_model IS TOUCHING koth_hill THEN awardpoints”. Can any object interact with any other object via script?
 
@@ -80,7 +80,7 @@ You can attach any object to any other. But the parameters for doing so are not 
 Every variable can be marked as networked or local-only. The synching of networked variables is all done automatically behind the scenes. This is one of the huge advantages of Megalo over a hard-coded game engine.
 
 ## Object Manipulation
-
+<span name="deviceMachines" />
 > We know that mid-game object creation is possible (Invasion phase spawning, Race vehicles). Can an object be moved (ie teleport a hog from one location to another) without just deleting it and respawning it?
 
 The only way to move an object is to attach it to another one (and then optionally detach it).
@@ -146,7 +146,7 @@ Not really sure what you're asking. You could destroy/kill any object based on a
 
 > Does Megalo have any animation capabilities (ie you could smoothly move a Block 2x4 across Forge World) or are all the custom animations for Spire/Breakpoint/Boneyard just baked .map animations called by Megalo at runtime?
 
-See 14. All objects that you see animate in invasion are actually device machines, which Megalo has some limited control over.
+See [here](#deviceMachines). All objects that you see animate in invasion are actually device machines, which Megalo has some limited control over.
 
 ## GUI additions
 > We’ve seen new toggles such as Supershields added post ship to the custom game GUI. Can Megalo scripters add new submenus?
