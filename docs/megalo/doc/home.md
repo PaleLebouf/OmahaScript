@@ -11,3 +11,12 @@ li a:hover:not(.active) {background-color: #111;}
 </ul>
 # Megalo Documentation
 This is documentation that I've created reflecting the original Halo Reach Megalo format and operations.
+- General Structure
+- Limits
+- Enum Types (Player and Object Refs, etc)
+- Variable Sets
+- Value Types
+- Variable Reference Types
+- [Conditions](https://palelebouf.github.io/OmahaScript/megalo/doc/conditions)
+- Action Templates (Custom Functions)
+- Actions (Built-in Functions
