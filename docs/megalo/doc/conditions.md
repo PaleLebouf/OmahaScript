@@ -19,10 +19,10 @@ decompiled Megalo XML files:
 
 ### Comparison Operators
 |TypeID|Operator|
-|----|:---------------------:|
-|   0  |< (Less Than)|
-|   1  |> (Greater Than)|
-|   2  |== (Equal)|
-|   3  |<= (Less Than Equal)|
-|   4  |>= (Greater Than Equal)|
-|   5  |!= (Not Equal)|
+| ---- |:---------------------:|
+|   0  | < (Less Than) |
+|   1  | > (Greater Than) |
+|   2  | == (Equal) |
+|   3  | <= (Less Than Equal) |
+|   4  | >= (Greater Than Equal) | 
+|   5  | != (Not Equal) | 
