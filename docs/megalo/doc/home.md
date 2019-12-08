@@ -9,6 +9,7 @@ li a:hover:not(.active) {background-color: #111;}
       <li><a class="active" href="https://palelebouf.github.io/OmahaScript/megalo/doc/home">Megalo Documentation</a></li>
       <li><a href="https://palelebouf.github.io/OmahaScript/megalo/qna">Megalo QnA</a></li>
 </ul>
+
 # Megalo Documentation
 
 This is documentation that I've created reflecting the original Halo Reach Megalo format and operations.
