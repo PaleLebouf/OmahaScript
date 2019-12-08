@@ -1,13 +1,13 @@
 <style type='text/css'>
-ul {list-style-type: none;padding: 0;overflow: hidden;background-color: #333;}
-li {  display:block; float: left;}
-li a {display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;}
-li a:hover:not(.active) {background-color: #111;}
+ul.nav {list-style-type: none;padding: 0;overflow: hidden;background-color: #333;}
+li.nav {  display:block; float: left;}
+li.nav a {display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;}
+li.nav a:hover:not(.active) {background-color: #111;}
 .active {background-color: #ffcc00;} </style>
-<ul>
-      <li><a class="active" href="https://palelebouf.github.io/OmahaScript/">Home</a></li>
-      <li><a href="https://palelebouf.github.io/OmahaScript/megalo/doc/home">Megalo Documentation</a></li>
-      <li><a href="https://palelebouf.github.io/OmahaScript/megalo/qna">Megalo QnA</a></li>
+<ul class="nav">
+      <li class="nav"><a href="https://palelebouf.github.io/OmahaScript/">Home</a></li>
+      <li class="nav"><a class="active" href="https://palelebouf.github.io/OmahaScript/megalo/doc/home">Megalo Documentation</a></li>
+      <li class="nav"><a href="https://palelebouf.github.io/OmahaScript/megalo/qna">Megalo QnA</a></li>
 </ul>
 # Conditions
 
