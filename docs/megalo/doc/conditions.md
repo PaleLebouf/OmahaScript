@@ -26,3 +26,12 @@ decompiled Megalo XML files:
 |   3  | <= (Less Than Equal) |
 |   4  | >= (Greater Than Equal) | 
 |   5  | != (Not Equal) | 
+
+| TypeID 	| Operator 	|
+|:------:	|:--------:	|
+|    0   	|     <    	|
+|    1   	|     >    	|
+|    2   	|    ==    	|
+|    3   	|    <=    	|
+|    4   	|    >=    	|
+|    5   	|    !=    	|
