@@ -10,7 +10,9 @@ li a:hover:not(.active) {background-color: #111;}
       <li><a href="https://palelebouf.github.io/OmahaScript/megalo/qna">Megalo QnA</a></li>
 </ul>
 # Megalo Documentation
+
 This is documentation that I've created reflecting the original Halo Reach Megalo format and operations.
+
 - General Structure
 - Limits
 - Enum Types (Player and Object Refs, etc)
