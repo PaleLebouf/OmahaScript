@@ -1,5 +1,5 @@
 # Megaloscript QnA
-This is a QnA asked on the old halo.bungie.org forum website. As of now, the post is accessible [here](http://forums.bungie.org/halo/archive37.pl?read=1101488).
+This is a QnA answered by Bungie employee Jon Cable, one of the sandbox engineers at bungie who concieved of Megalo. The old halo.bungie.org forum website post is accessible [here](http://forums.bungie.org/halo/archive37.pl?read=1101488).
 
 - What programming language does Megalo most imitate? Is it C-like or Python-esque?
 
