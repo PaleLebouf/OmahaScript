@@ -6,9 +6,9 @@ li a:hover:not(.active) {background-color: #111;}
 .active {background-color: #ffcc00;} </style>
 <ul>
       <li><a href="https://palelebouf.github.io/OmahaScript/">Home</a></li>
-      <li><a class="active" href="https://palelebouf.github.io/OmahaScript/legacyinfo/megaloqna">Old Megalo QNA</a></li>
+      <li><a class="active" href="https://palelebouf.github.io/OmahaScript/legacyinfo/megaloqna">Megalo QnA</a></li>
 </ul>
-# Megaloscript QnA
+# Megalo QnA
 This is a QnA answered by Bungie employee [Jon Cable](https://www.linkedin.com/in/jon-cable-941a6a4), one of the sandbox engineers at bungie who concieved of Megalo. The old halo.bungie.org forum website post is accessible [here](http://forums.bungie.org/halo/archive37.pl?read=1101488).
 
 > What programming language does Megalo most imitate? Is it C-like or Python-esque?
