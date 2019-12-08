@@ -1,3 +1,13 @@
+<style type='text/css'>
+ul {list-style-type: none;padding: 0;overflow: hidden;background-color: #333;}
+li {  display:block; float: left;}
+li a {display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;}
+li a:hover:not(.active) {background-color: #111;}
+.active {background-color: #ffcc00;} </style>
+<ul>
+      <li><a class="active" href="https://palelebouf.github.io/OmahaScript/">Home</a></li>
+      <li><a href="https://palelebouf.github.io/OmahaScript/legacyinfo/megaloqna">Old Megalo QNA</a></li>
+</ul>
 # Megaloscript QnA
 This is a QnA answered by Bungie employee [Jon Cable](https://www.linkedin.com/in/jon-cable-941a6a4), one of the sandbox engineers at bungie who concieved of Megalo. The old halo.bungie.org forum website post is accessible [here](http://forums.bungie.org/halo/archive37.pl?read=1101488).
 
