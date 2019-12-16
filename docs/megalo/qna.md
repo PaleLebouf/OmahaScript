@@ -4,11 +4,12 @@ li.nav {  display:block; float: left;}
 li.nav a {display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;}
 li.nav a:hover:not(.active) {background-color: #111;}
 li.nav a.active {background-color: #ffcc00; color:#000} </style>
-<ul>
-      <li><a href="https://palelebouf.github.io/OmahaScript/">Home</a></li>
-      <li><a href="https://palelebouf.github.io/OmahaScript/megalo/doc/home">Megalo Documentation</a></li>
-      <li><a class="active" href="https://palelebouf.github.io/OmahaScript/megalo/qna">Megalo QnA</a></li>
+<ul class="nav">
+      <li class="nav"><a href="https://palelebouf.github.io/OmahaScript/">Home</a></li>
+      <li class="nav"><a href="https://palelebouf.github.io/OmahaScript/megalo/doc/home">Megalo Documentation</a></li>
+      <li class="nav"><a class="active" href="https://palelebouf.github.io/OmahaScript/megalo/qna">Megalo QnA</a></li>
 </ul>
+
 # Megalo QnA
 This is a QnA answered by Bungie employee [Jon Cable](https://www.linkedin.com/in/jon-cable-941a6a4), one of the sandbox engineers at bungie who concieved of Megalo. The old halo.bungie.org forum website post is accessible [here](http://forums.bungie.org/halo/archive37.pl?read=1101488).
 
