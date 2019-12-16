@@ -15,7 +15,7 @@ li.nav a.active {background-color: #ffcc00; color:#000} </style>
 This is documentation that I've created reflecting the original Halo Reach Megalo format and operations.
 
 - General Structure
-- Limits
+- [Limits](https://palelebouf.github.io/OmahaScript/megalo/doc/limits)
 - Enum Types (Player and Object Refs, etc)
 - Variable Sets
 - Value Types
