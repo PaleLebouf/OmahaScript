@@ -18,14 +18,18 @@ It's a great and dynamic tool for creating something as complex as chess, spawni
 
 Technical limitations are very restrictive, considering that most gametype logic needs to be networked between host and client, so the amount of variables that you can "create" or use in megalo is also very limited.
 
+---
+
 ## General Limitations
 
 These are the overarching limitations placed upon Megalo and Megalo Script.
 
 |        Property        	| Number Limit 	| Description                                                                                                                                                                  	|
 |:----------------------:	|:------------:	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Maximum Trigger Groups 	|      128     	| This is the maximum number of triggers that can be defined and utilized in the scripting section of megalo. This includes iterating functions on each player or game object. 	|
+| Maximum Trigger Groups 	|      128     	| I believe this is the maximum number of compound triggers that can be defined and utilized in the scripting section of megalo. This includes iterating functions on each player or game object. 	|
 | Maximum Script Values  	| 4096         	| The maximum number of gametype-specific values, showing up in menus as well as in-game networked variables.                                                                  	|
+
+---
 
 ## Scripting Specific Limitations
 
